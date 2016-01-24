@@ -129,7 +129,7 @@ Copyright notice must remain here if you're using any part of this code.-->
         <item>Xtra Large Font</item>
         <item>Xtra Xtra Large Font</item>
                
-    </string-array>
+    </string-array> 
     
     
     
@@ -742,7 +742,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="not_valid_title">Not Valid</string>
     <string name="not_valid_message">This version of Folio is not from the Play Store and will not function.</string>
-    <string name="get_from_play">Google Play</string>
+    <string name="get_from_Google_play">Google Play</string>
     
     <string name="people_you">People You May Know</string>
     <string name="people_you_hint">Hide people you may know. (BETA)</string>
@@ -750,7 +750,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="download_manager_disabled">DownloadManager is disabled. Please enable it.</string>
     <string name="cannot_access_storage">No access to external storage</string>
     <string name="file_cannot_be_saved">A file cannot be saved</string>
-    <string name="camera_exception">Problems with a camera</string>
+    <string name="camera_exception">Problems with camera</string>
     
     
     
